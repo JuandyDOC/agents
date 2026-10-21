@@ -11,6 +11,8 @@ The different technologies used are:
 6. n8n
 Among other LLMs
 
+URL of resources and blogs: https://cursos.frogamesformacion.com/pages/blog/ingenieria-de-agentes-de-ia
+
 The course consists of 6 weeks of study, each with different labs, which will be completed as the course progresses. 
 
 This file will be updated with each new development, advancement, and completed project. 
